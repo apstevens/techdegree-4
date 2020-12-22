@@ -14,6 +14,6 @@
 
 <p>Create a browser based word guessing game called&colon; &quot;Phrase Hunter&quot;. 
    The game will be created using JavaScript Object Oriented Programming principles, 
-   to select a hidden phrae by randomn, that the user must to try to correctly guess. 
+   to select a hidden phrase by randomn, that the user must to try to correctly guess. 
 </p>
  
